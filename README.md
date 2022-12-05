@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">A soon to be college graduate and developer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [MattDeWeerd.github.io](MattDeWeerd.github.io)
+- 👨‍💻 All of my projects are available at [MattDeWeerd.github.io](https://mattdeWeerd.github.io)
 
 - 📫 Connect with me on Discord **Matt#6247**
 
