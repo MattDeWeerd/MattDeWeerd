@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">Junior Developer at Carfax Canada</h3>
 
-- 👨‍💻 All of my projects are available at [MattDeWeerd.github.io](https://mattdeWeerd.github.io)
+- 👨‍💻 Some of my projects are available at [MattDeWeerd.github.io](https://mattdeWeerd.github.io)
 
-- 📫 Connect with me on Discord **Matt#6247**
+- 📫 Connect with me on Discord **Matt_ow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
