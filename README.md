@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">Junior Developer at Carfax Canada</h3>
+<h3 align="center">Software Developer</h3>
 
 - 👨‍💻 Some of my projects are available at [MattDeWeerd.github.io](https://mattdeWeerd.github.io)
 
